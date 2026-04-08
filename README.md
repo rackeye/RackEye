@@ -1,6 +1,6 @@
 # 🚀 RackEye
 
-> ⚡ Open Source Hosting Platform — Deploy, Scale & Manage 
+> ⚡ Open Source Hosting Software — Deploy, Scale & Manage 
 
 ---
 
@@ -25,18 +25,3 @@ Built with scalability, performance, and simplicity in mind, RackEye enables you
 - 🛠️ **Developer-Friendly CLI (Coming Soon)**
 
 ---
-
-## 🧠 Tech Stack
-
-| Layer        | Technology |
-|-------------|-----------|
-| Frontend     | Next.js / React |
-| Backend      | Node.js / Express |
-| Database     | MongoDB / PostgreSQL |
-| Infra        | Docker / Kubernetes |
-| Proxy        | NGINX / HAProxy |
-| Auth         | OAuth2 / JWT |
-
----
-
-## 📁 Project Structure
